@@ -1,0 +1,27 @@
+{
+  "name": "dv.xlsxToJson",
+  "version": "0.0.0",
+  "authors": [
+    "(Danilo Velasquez <danilo.velasquez@gmail.com>)"
+  ],
+  "description": "Convert an excel file to a JSON object and a BASE64 String.",
+  "main": "xlsxToJson.js",
+  "keywords": [
+    "xlsx",
+    "json",
+    "converter"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dvelasquez/dv.xlsxToJson",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "alasql": "~0.2.0"
+  }
+}
