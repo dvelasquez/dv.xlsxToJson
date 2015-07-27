@@ -1,6 +1,6 @@
 {
   "name": "dv.xlsxToJson",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Convert any XLSX or XLS project to a json object.",
   "main": "xlsxToJson.js",
   "dependencies": {
