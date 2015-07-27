@@ -1,5 +1,5 @@
 # DV.XLSXTOJSON
-Convert any file from xlsx to a JSON object and to a base64 String!
+Convert any file from xlsx to a JSON object and to a base64 String in the CLIENT BROWSER!
 
 ##Installation
 ###Using Bower
